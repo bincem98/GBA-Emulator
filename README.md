@@ -1,1 +1,1 @@
-# GBA-Emuliator
+# GBA-Emulator
